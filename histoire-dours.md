@@ -21,4 +21,5 @@
 
 # Chapitre 7
 
+l'ours qui s'aventure dans des territoires inconnu et dangereux avec son ami 
 
